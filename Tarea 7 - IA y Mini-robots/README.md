@@ -122,21 +122,6 @@ La estimación no incluye toda la memoria de inferencia ni mide un modelo real. 
 
 `app.py` conserva los modos `/rag`, `/general` y `/agente`. No necesitas ejecutarla al trabajar con los notebooks: estos llaman directamente a las funciones.
 
-## Evidencia para entregar
-
-Guarda los notebooks con las salidas de tus ejecuciones reales. Completa las tablas pendientes y no presentes resultados esperados como observados.
-
-- [ ] Ejemplo de uso de cada skill.
-- [ ] Varios manuales y documentos del curso indexados.
-- [ ] Texto extraído, fragmentos y citas contrastados con sus fuentes.
-- [ ] Pregunta sin información suficiente evaluada.
-- [ ] Consultas reales del agente verificadas en SQLite.
-- [ ] Orden y falla relacionadas en el historial.
-- [ ] Reintento sin duplicar orden ni falla.
-- [ ] Diferenciación entre propuesta ESP32 e implementación física.
-
-El alcance es educativo. No incluye OCR, separación estricta de corpus, verificación automática de citas, ejecución automática de skills ni integración física con ESP32. Cada notebook explica sus límites y contiene referencias técnicas.
-
 ## Referencia del taller
 
 Martínez P., J. J. (2026, septiembre). *7. Inteligencia artificial generativa* [Material de curso, archivo `7.md`], sección 7.11.
